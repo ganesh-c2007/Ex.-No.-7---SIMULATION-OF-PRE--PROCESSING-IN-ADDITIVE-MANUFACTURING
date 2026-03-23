@@ -1,6 +1,6 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
-## AIM:
+[# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 23-03-2026
+## AIM: 
 ### To simulate the Pre Processing for 3D printing.
 
 ## REQUIREMENTS:
@@ -39,14 +39,20 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+<img width="1491" height="811" alt="566351893-b37813ec-15d7-4513-bdfc-7cd0dcf8ec0a" src="https://github.com/user-attachments/assets/fa4c20dd-49eb-4697-a296-9e4cd745fa5e" />
+<img width="1414" height="811" alt="566352355-f9f1776f-02c2-491f-b8eb-274235c91866" src="https://github.com/user-attachments/assets/951de1ea-63bf-43c5-8a2d-b2fd491f435f" />
+<img width="1389" height="736" alt="566352487-715dd4de-29a9-4802-afbd-f5df15f8ef11" src="https://github.com/user-attachments/assets/584265c5-98f7-4835-84fb-e1f370d40405" />
+
+
+
 
 ## Output:
+<img width="1863" height="821" alt="Screenshot 2026-03-20 100948" src="https://github.com/user-attachments/assets/6c634d62-4f31-45b2-abea-315f84f28e5f" />
 
-### Name:
-### Register Number:
+
+### Name: GANESH.C
+### Register Number: 212225230071
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
+](https://github.com/ganesh-c2007/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/tree/main)https://github.com/ganesh-c2007/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/tree/main
